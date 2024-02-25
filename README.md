@@ -14,8 +14,6 @@
 
 <h4>💼 Atualmente em busca de oportunidades para aplicar meu conhecimento e paixão por IA em projetos desafiadores e impactantes. Aberto a colaborações, parcerias e novas oportunidades de aprendizado.</h4>
 
-<h4>🌟 Vamos conectar e explorar possibilidades juntos!</h4>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
